@@ -1,6 +1,6 @@
 #BlueJ class context
-comment0.target=EHPViewer
+comment0.target=EHP
 comment0.text=\r\n\ issa\ vpn.\r\n\r\n\ @author\ karltrowbridge\r\n\ @version\ 9/21/18\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
+comment1.params=classesNum
+comment1.target=EHP(int)
 numComments=2
