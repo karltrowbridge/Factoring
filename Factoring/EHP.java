@@ -16,7 +16,7 @@ public class EHP
     {
         // number of classes
         Scanner s = new Scanner(System.in);
-        System.out.println("How many classes do you have: ");
+        System.out.print("How many classes do you have: ");
         this.numOfClasses = s.nextInt();
         
         // class names
@@ -45,6 +45,6 @@ public class EHP
     {
         Scanner s = new Scanner(System.in);
         System.out.println("What class?: ");
-        //String className = s.nextln()
+        String className = s.nextLine();
     }
 }
